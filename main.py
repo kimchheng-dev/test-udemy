@@ -2,7 +2,7 @@
 def main(msg):
     //Update another comment
     //Adding the second comment to this file.
-    //Print
+    //Printer
     print(msg)
 
 print("Hello world")
